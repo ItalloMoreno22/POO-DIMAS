@@ -8,7 +8,7 @@ package fatec.poo.model;
 
 /**
  *
- * @author marcelo
+ * @author Itallo Moreno
  */
 public class Livro {
     private int identificacao;

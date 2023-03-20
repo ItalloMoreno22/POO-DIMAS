@@ -6,7 +6,7 @@
 
 /**
  *
- * @author marcelo
+ * @author Itallo Moreno
  */
 import fatec.poo.model.Livro;
 import java.util.Scanner;
